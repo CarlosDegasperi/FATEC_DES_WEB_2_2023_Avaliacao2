@@ -1,1 +1,3 @@
-# FATEC_DES_WEB_2_2023_Avaliacao2
+## Segunda Avaliação DESENVOLVIMENTO WEB II - Fatec Araras
+Professor: Orlando Saraiva
+Usando PHP/Html + CRUD
